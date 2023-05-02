@@ -11,27 +11,15 @@
   <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-6DB33F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=F7F4F4"/> 
   <img alt="SpringFramework" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=F7F4F4"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=F7F4F4"/>
-  <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-e52246?style=for-the-badge&logo=ORACLE&logoColor=black">
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=F7F4F4"/>
-  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=F7F4F4"/>
+  <img alt="JPA" src ="https://img.shields.io/badge/Thymeleaf-6DB33F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=F7F4F4"/> 
+  <img alt="ORACLE" src="https://img.shields.io/badge/JPA-e52246?style=for-the-badge&logo=JPA&logoColor=black">
 </div>
 <hr><br>
 
-### 📁프로젝트📁
-
-#### -스터디홈즈 프로젝트📖
-
-1. https://github.com/ckcks1997/project-study-holmes  <br/>
-  -MVC2 방식으로 구현한 스터디 모집 서비스입니다.
-
-2. https://github.com/ckcks1997/spring-study-holmes <br/>
-  -MVC2 방식으로 개발한 프로젝트를 스프링으로 전환하고 기능을 추가한 프로젝트입니다.
 
 ### 🖥Info🖥
 
 📧E-mail: ckcks1997@gmail.com <br>
-<!--✍️ Blog : <a href='https://blog.naver.com/dbcksgur1'> click</a>-->
-
 
 <br/><br/>
 ![ckcks1997's github stats](https://github-readme-stats.vercel.app/api?username=ckcks1997&show_icons=true)
