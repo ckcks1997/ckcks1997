@@ -11,8 +11,8 @@
   <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-6DB33F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=F7F4F4"/> 
   <img alt="SpringFramework" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=F7F4F4"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=F7F4F4"/>
-  <img alt="JPA" src ="https://img.shields.io/badge/Thymeleaf-6DB33F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=F7F4F4"/> 
-  <img alt="ORACLE" src="https://img.shields.io/badge/JPA-e52246?style=for-the-badge&logo=JPA&logoColor=black">
+  <img alt="JPA" src ="https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=JPA&logoColor=F7F4F4"/> 
+  <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-e52246?style=for-the-badge&logo=ORACLE&logoColor=black">
 </div>
 <hr><br>
 
