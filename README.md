@@ -13,6 +13,12 @@
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=F7F4F4"/>
   <img alt="JPA" src ="https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=JPA&logoColor=F7F4F4"/> 
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-e52246?style=for-the-badge&logo=ORACLE&logoColor=black">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=black">
+  <img alt="VUE" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black">
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="Intellij" src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <hr><br>
 
