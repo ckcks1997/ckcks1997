@@ -6,19 +6,21 @@
 
 <h4 align="center">⚒ Tech Stack ⚒</h4>
 <div style="float:left" align="center">
-  <img alt="Java" src ="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=070000"/>
-  <img alt="JSP" src ="https://img.shields.io/badge/Jsp-F7DF1E.svg?&style=for-the-badge&logo=Jsp&logoColor=070000"/>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=openjdk&logoColor=070000"/>
+  <img alt="Python" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=F7F4F4"/>
   <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-6DB33F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=F7F4F4"/> 
   <img alt="SpringFramework" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=F7F4F4"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=F7F4F4"/>
   <img alt="JPA" src ="https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=JPA&logoColor=F7F4F4"/> 
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-e52246?style=for-the-badge&logo=ORACLE&logoColor=black">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=black">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=F7F4F4">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-4169E1?style=for-the-badge&logo=mariadb&logoColor=F7F4F4">
   <img alt="VUE" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black">
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img alt="Intellij" src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=white">
 </div>
 <hr><br>
 
