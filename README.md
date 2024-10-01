@@ -39,4 +39,4 @@
 
 <br/><br/>
 ![ckcks1997's github stats](https://github-readme-stats.vercel.app/api?username=ckcks1997)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckcks1997&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckcks1997&layout=compact&langs_count=8)
